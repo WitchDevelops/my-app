@@ -1,0 +1,6 @@
+.logo {
+    background-image: url(icon-logo.svg);
+    width: 72px;
+    height: 32px;
+    justify-self: start;
+}
